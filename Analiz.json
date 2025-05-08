@@ -1,0 +1,113 @@
+{
+  "tarih_araligi": "29.04.2025 - 01.05.2025",
+  "ozet": {
+    "toplam_para_degisimi": "+11.837.032.068",
+    "degisim_orani": "+0.17",
+    "fonlardaki_toplam_yatirimci_degisimi": "-98890",
+    "ozet_yorum": "Yatırımcı sayısı düşmesine rağmen toplam yatırım artmış. Bu, büyük yatırımcıların piyasaya daha fazla sermaye koyduğunu gösteriyor. Likiditeye dönüş eğilimi: Para Piyasası Fonu ve Altın fonlarına para akışı var. Bu, yatırımcıların piyasadaki riskleri sezdiğini gösteriyor. Düşen yatırımcı sayısı, artan toplam para: Kurumsal veya yüksek bütçeli bireysel yatırımcıların etkisi artıyor. Endeks fonlarına artan ilgi: Düşük maliyetli ve geniş tabanlı yatırım tercih ediliyor. Yabancı yatırım sinyali: Yabancı fonlara para girişi, küresel piyasa fırsatlarının değerlendirildiğine işaret ediyor. "
+  },
+  "en_cok_para_girisi_olan_varlik_siniflari": [
+    {
+      "alan": "Mevduat (TL)",
+      "degisim": "+27.847.060.681,76",
+      "oran": "+0.38946"
+    },
+    {
+      "alan": "Takasbank Para Piyasası",
+      "degisim": "+7.390.102.550,39",
+      "oran": "+0.1061"
+    },
+    {
+      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
+      "degisim": "+3.577.164.559,96",
+      "oran": "+0.03910"
+    },
+    {
+      "alan": "Mevduat (Döviz)",
+      "degisim": "+2.474.923.980,08",
+      "oran": "+0.03043"
+    },
+    {
+      "alan": "Kıymetli Madenler",
+      "degisim": "+1.282.327.094,10",
+      "oran": "+0.01384"
+    }
+  ],
+  "en_cok_para_cikisi_olan_varlik_siniflari": [
+    {
+      "alan": "Ters-Repo",
+      "degisim": "-8.661.233.883,26",
+      "oran": "-0.15661"
+    },
+    {
+      "alan": "Hisse Senedi",
+      "degisim": "-6.606.089.621,24",
+      "oran": "-0.11709"
+    },
+    {
+      "alan": "Katılma Hesabı (TL)",
+      "degisim": "-5.233.408.042,68",
+      "oran": "-0.08185"
+    },
+    {
+      "alan": "Hazine Bonosu",
+      "degisim": "-3.541.560.486,10",
+      "oran": "-0.05365"
+    },
+    {
+      "alan": "Devlet Tahvili",
+      "degisim": "-3.198.046.743,16",
+      "oran": "-0.05609"
+    }
+  ],
+  "encok_para_girisi_olan_fonlar": [
+    {
+      "isim": "Para Piyasası Fonu",
+      "degisim_tl": "+20.367.759.450"
+    },
+    {
+      "isim": "Dış Borçlanma Araçları Fonu",
+      "degisim_tl": "+1.029.993.500"
+    },
+    {
+      "isim": "Endeks Fon",
+      "degisim_tl": "+817.574.926"
+    },
+    {
+      "isim": "Girişim Sermayesi Yatırım Fonları",
+      "degisim_tl": "+12.686.449"
+    },
+    {
+      "isim": "Yabancı Fon Sepeti Fonu",
+      "degisim_tl": "+236.618.460"
+    }
+  ],
+  "encok_para_cikisi_olan_fonlar": [
+    {
+      "isim": "Serbest Fon",
+      "degisim_tl": "-3.545.268.423"
+    },
+    {
+      "isim": "Altın Katılım Fonu",
+      "degisim_tl": "-1.091.301.486"
+    },
+    {
+      "isim": "Fon Sepeti Fonu",
+      "degisim_tl": "-252.917.834"
+    },
+    {
+      "isim": "Borçlanma Araçları Fonu",
+      "degisim_tl": "-1.642.352.922"
+    },
+    {
+      "isim": "Karma Fon",
+      "degisim_tl": "-77.018.266"
+    }
+  ],
+  "detayli_AI_yorumlari": [
+    "TL mevduatlarına büyük bir yönelim olmuş. Bu genellikle faizlerin cazip hale geldiğini, yatırımcıların riskten kaçınarak güvenli limanlara döndüğünü gösterir. Aynı şekilde özel sektör tahvillerine yönelim de artmış, bu biraz risk iştahının da sürdüğünü gösteriyor.",
+    "Hisse senedi ve devlet tahvili gibi klasik enstrümanlardan çıkış var. Özellikle altın ve diğer kıymetli madenlerdeki düşüş, yatırımcıların kısa vadede güvenli limanlardan TL mevduata ve sabit getirili enstrümanlara kaydığını gösteriyor.",
+    "Yabancı fonlarda sınırlı artış: Yabancı BYF ve hisse senetlerinde küçük artışlar var. Bu da yatırımcının hâlâ çeşitlendirme stratejisine devam ettiğini gösteriyor.",
+    "Serbest Fonlardan çıkan para, muhtemelen daha risksiz fonlara yöneldi. Altına dayalı fonlar ve borçlanma araçları fonları dikkat çekici düşüş yaşadı; bu durum piyasa volatilitesiyle ilgili olabilir.Özel sektör yurt dışı kira sertifikalarına 7 milyar ₺'den fazla para girişi yatırımcıların yurtdışı getirilerine göz diktiğini gösteriyor. Bu ani sıçrama bir haber akışına bağlı olabilir."
+  ]
+}
