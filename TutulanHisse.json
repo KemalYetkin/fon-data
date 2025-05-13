@@ -1,5 +1,5 @@
 {
-  "tarih": "2025-05-12",
+  "tarih": "2025-05-13",
   "veriler": [
     {
       "Hisse": "ASELS",
@@ -23,7 +23,7 @@
     },
     {
       "Hisse": "GMSTR.F",
-      "Toplam Puan": 172,
+      "Toplam Puan": 171,
       "Sıra": 5
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Hisse": "GLDTR.F",
-      "Toplam Puan": 121,
+      "Toplam Puan": 122,
       "Sıra": 11
     },
     {
@@ -187,8 +187,8 @@
       "Sıra": 37
     },
     {
-      "Hisse": "KOZAA",
-      "Toplam Puan": 40,
+      "Hisse": "HTTBT",
+      "Toplam Puan": 41,
       "Sıra": 38
     },
     {
@@ -197,17 +197,17 @@
       "Sıra": 39
     },
     {
-      "Hisse": "HTTBT",
+      "Hisse": "KOZAA",
       "Toplam Puan": 40,
       "Sıra": 40
     },
     {
-      "Hisse": "ULKER",
+      "Hisse": "FZLGY",
       "Toplam Puan": 38,
       "Sıra": 41
     },
     {
-      "Hisse": "FZLGY",
+      "Hisse": "ULKER",
       "Toplam Puan": 38,
       "Sıra": 42
     },
@@ -237,12 +237,12 @@
       "Sıra": 47
     },
     {
-      "Hisse": "KRDMD",
+      "Hisse": "AKSEN",
       "Toplam Puan": 34,
       "Sıra": 48
     },
     {
-      "Hisse": "AKSEN",
+      "Hisse": "KRDMD",
       "Toplam Puan": 34,
       "Sıra": 49
     },
@@ -497,7 +497,7 @@
       "Sıra": 99
     },
     {
-      "Hisse": "PASEU",
+      "Hisse": "ESCAR",
       "Toplam Puan": 13,
       "Sıra": 100
     }
