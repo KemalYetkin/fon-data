@@ -1,113 +1,113 @@
 {
-  "tarih_araligi": "15.05.2025 - 16.05.2025",
+  "tarih_araligi": "16.05.2025 - 21.05.2025",
   "ozet": {
-    "toplam_para_degisimi": "-7.259.839.042",
-    "degisim_orani": "-0.104",
-    "fonlardaki_toplam_yatirimci_degisimi": "17183",
-    "ozet_yorum": "Fonlardaki toplam para iki günde yaklaşık ‑8,2 milyar ₺ (%‑0,12) daraldı. Büyük resimde portföy neredeyse yerinde sayıyor. TL mevduattan 12,6 milyar çıkarken Ters-Repoya 14,7 milyar girdi. Yatırımcı “kasada nakit dursun” modunda. Hisse senedinden çıkan 5 milyar ₺, portföyün %0,06’sı. Oran çok dramatik değil ama son bir‑iki haftadır görülen realizasyon trendine uyuyor."
+    "toplam_para_degisimi": "64.219.570.655",
+    "degisim_orani": "0.92",
+    "fonlardaki_toplam_yatirimci_degisimi": "280099",
+    "ozet_yorum": "Toplam Yatırımcı Sayısı 63.051.429'dan 63.331.528'e , toplam yatırım miktarı 6,98 trilyon TL'den 7,04 trilyon TL'ye yükselmiş (64,22 milyar TL artış, %0,92) Bu beş günlük dönemde yatırımcıların güvenli limanlara yöneldiği (altın, para piyasası) ve aynı zamanda daha yüksek getiri potansiyeli olan araçlara da (serbest fonlar, girişim sermayesi fonları) ilgi gösterdiği anlaşılıyor."
   },
   "en_cok_para_girisi_olan_varlik_siniflari": [
     {
-      "alan": "Ters-Repo",
-      "degisim": "+14.705.854.697,35",
-      "oran": "+0.228"
+      "alan": "Mevduat (TL)",
+      "degisim": "+29.624.107.500,02",
+      "oran": "+0.321"
     },
     {
-      "alan": "Yatırım Fonları Katılma Payları",
-      "degisim": "+1.977.345.109,23",
-      "oran": "+0.032"
+      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
+      "degisim": "+14.085.391.682,75",
+      "oran": "+0.139"
+    },
+    {
+      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Borçlanma Araçları",
+      "degisim": "+12.165.840.498,63",
+      "oran": "+0.165"
     },
     {
       "alan": "Özel Sektör Dış Borçlanma Araçları",
-      "degisim": "+5.720.470.989,54",
-      "oran": "+0.094"
+      "degisim": "+6.284.639.512,16",
+      "oran": "-0.011"
     },
     {
-      "alan": "Katılma Hesabı (TL)",
-      "degisim": "+2.127.226.313,15",
-      "oran": "+0.034"
-    },
-    {
-      "alan": "Takasbank Para Piyasası",
-      "degisim": "+690.936.575,39",
-      "oran": "+0.011"
+      "alan": "Mevduat (Döviz)",
+      "degisim": "+5.714.326.827,77",
+      "oran": "+0.053"
     }
   ],
   "en_cok_para_cikisi_olan_varlik_siniflari": [
     {
-      "alan": "Hisse Senedi",
-      "degisim": "-4.948.233.213,87",
-      "oran": "-0.057"
+      "alan": "Ters-Repo",
+      "degisim": "-27.922.385.107,36",
+      "oran": "-0.534"
     },
     {
-      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
-      "degisim": "-6.407.359.005,42",
-      "oran": "-0.083"
+      "alan": "Katılma Hesabı (TL)",
+      "degisim": "-8.848.903.789,26",
+      "oran": "-0.154"
     },
     {
-      "alan": "Mevduat (TL)",
-      "degisim": "-12.600.320.131,58",
-      "oran": "-0.166"
+      "alan": "Devlet Tahvili",
+      "degisim": "-6.721.265.714,17",
+      "oran": "-0.138"
     },
     {
-      "alan": "Yabancı Borsa Yatırım Fonları",
-      "degisim": "-1.408.655.072,77",
-      "oran": "-0.019"
+      "alan": "Vadeli İşlemler Nakit Teminatları",
+      "degisim": "-168.144.060,02",
+      "oran": "-0.006"
     },
     {
-      "alan": "Borsa Yatırım Fonları Katılma Payları",
-      "degisim": "-1.342.933.442,56",
-      "oran": "-0.017"
+      "alan": "Varlığa Dayalı Menkul Kıymetler",
+      "degisim": "-27.505.704,49",
+      "oran": "-0.001"
     }
   ],
   "encok_para_girisi_olan_fonlar": [
     {
+      "isim": "Serbest Fon",
+      "degisim_tl": "+24.905.754.651,00"
+    },
+    {
       "isim": "Para Piyasası Fonu",
-      "degisim_tl": "+25.643.546.340"
+      "degisim_tl": "+10.576.849.077,00"
     },
     {
-      "isim": "Gayrimenkul Yatırım Fonları",
-      "degisim_tl": "+814.107.166"
+      "isim": "Altın Fonu",
+      "degisim_tl": "+7.426.986.409,00"
     },
     {
-      "isim": "Borçlanma Araçları Fonu",
-      "degisim_tl": "+344.294.060"
+      "isim": "Altın Katılım Fonu",
+      "degisim_tl": "+7.227.194.274,00"
     },
     {
       "isim": "Katılım Fonu",
-      "degisim_tl": "+209.812.213"
-    },
-    {
-      "isim": "Girişim Sermayesi Yatırım Fonları",
-      "degisim_tl": "+72.469.846"
+      "degisim_tl": "+3.128.564.198,00"
     }
   ],
   "encok_para_cikisi_olan_fonlar": [
     {
-      "isim": "Serbest Fon",
-      "degisim_tl": "-12.918.227.813"
+      "isim": "Kisa Vadeli Kira Sertifikalari Katilim Fonu",
+      "degisim_tl": "-401.531.749,00"
     },
     {
-      "isim": "Altın Fonu",
-      "degisim_tl": "-5.439.219.840"
+      "isim": "Başlangıç Katılım Fonu",
+      "degisim_tl": "-71.680.212,00"
     },
     {
-      "isim": "Altın Katılım Fonu",
-      "degisim_tl": "-5.384.703.204"
+      "isim": "Katılım Standart Fon",
+      "degisim_tl": "-32.533.449,00"
     },
     {
-      "isim": "Hisse Senedi Fonu",
-      "degisim_tl": "-3.289.259.841"
+      "isim": "Katılım Katkı Fonu",
+      "degisim_tl": "-23.187.777,00"
     },
     {
-      "isim": "Hisse Senedi Yoğun Fon",
-      "degisim_tl": "-1.419.253.732"
+      "isim": "Kıymetli Madenler",
+      "degisim_tl": "+28.640,00"
     }
   ],
   "detayli_AI_yorumlari": [
-    "İki günlük dalgalanma küçük ama yön bize şunu söylüyor: nakit kral, risk iştahı sınırlı, dövizli ve kısa vadeli getiriler cazip. Portföy yönetiminde “kısa vade‑yüksek likidite” teması öne çıkıyor; bunu göz önünde tutarak pozisyon boyutlarını ayarlamak mantıklı görünüyor. Altın Odaklı Fonlar (Altın Fonu, Altın Katılım): Toplam −10,8 milyar₺; yatırımcı sayıları da hafif düşüşte. Altın kâr realizasyonu başladı.",
-    "Döviz Cinsi Varlıklarda Sınırlı Değişim: Döviz cinsi kamu iç borçlanma araçları, katılma hesapları (döviz) ve mevduat (döviz) kalemlerinde önemli bir artış veya azalış gözlenmemektedir. Bu da yatırımcıların döviz pozisyonlarında büyük bir değişiklik yapmadığını gösterir. Serbest Fonlar: −12,9 milyar₺ (−0,39 %) net çıkış, yatırımcı sayısı yine +1 828. Büyük portföyler azalıyor, küçükler ekleniyor.",
-    "Sabit Getirili Menkul Kıymetlerde İstikrar: Devlet Tahvili, Hazine Bonosu, Kamu Kira Sertifikaları (TL) gibi büyük hacimli sabit getirili menkul kıymetlerde önemli bir değişim yaşanmamıştır. Bu durum, bu araçlarda pozisyonların korunduğunu veya sınırlı alım/satım hareketleri olduğunu gösterir.",
-    "Bu veriler piyasaya yeni yatırımcıların girdiğini veya mevcut yatırımcıların daha fazla fon türüne yayıldığını ancak toplamda piyasadan bir miktar para çıkışı olduğunu ya da mevcut varlıkların değerinde bir düşüş yaşandığını göstermektedir. Ortalama yatırım miktarında bir düşüş olduğu veya daha küçük portföylü yatırımcıların sayısının arttığı düşünülebilir."
+    "Para Piyasası Fonları yatırımcı sayısında en büyük artışı göstermiş. Bu, yatırımcıların kısa vadeli ve nispeten güvenli yatırım araçlarına yöneldiğini gösteriyor.16 Mayıs'ta ₺783.341.071.472,71 olan hisse senedi tutarı, 21 Mayıs'ta ₺785.810.027.477,47'ye yükselmiştir. Oranı da %11.18'den %11.11'e hafifçe düşse de mutlak değerdeki artış yatırımcıların hisse senedine olan ilgisinin devam ettiğini göstermektedir.",
+    "Altın Katılım Fonu ve Altın Fonu hem yatırımcı sayısı hem de yatırım miktarı açısından güçlü performans gösteriyor. Bu durum, bu kısa dönemde altına olan güvenin ve talebinin arttığını gösteriyor. Her iki tarihte de en büyük paya sahip kalemlerden biri olan hisse senetlerinde önemli bir artış yaşanmıştır. 16 Mayıs'ta ₺783.341.071.472,71 olan hisse senedi tutarı, 21 Mayıs'ta ₺785.810.027.477,47'ye yükselmiştir. Oranı da %11.18'den %11.11'e hafifçe düşse de mutlak değerdeki artış yatırımcıların hisse senedine olan ilgisinin de sona ermediğini gösteriyor.",
+    "Serbest Fonlar Büyük Sermayeye Hitap Ediyor: Serbest fonlar, yatırımcı sayısı bakımından orta sıralarda olmasına rağmen (793 bin kişi), en yüksek yatırım miktarına sahip. Bu, kurumsal yatırımcıların ve yüksek varlıklı bireylerin bu fonları tercih ettiğini gösteriyor.",
+    "Katılım esaslı fonların (Altın Katılım, Katılım Değişken vb.) güçlü performansı, faizsiz yatırım araçlarına olan ilginin sürdüğünü gösteriyor. Gayrimenkul Yatırım Fonları ve Girişim Sermayesi Yatırım Fonları gibi alternatif yatırım araçlarına olan ilgi devam ediyor."
   ]
 }
