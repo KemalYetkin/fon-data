@@ -1,113 +1,113 @@
 {
-  "tarih_araligi": "16.05.2025 - 21.05.2025",
+  "tarih_araligi": "21.05.2025 - 25.05.2025",
   "ozet": {
-    "toplam_para_degisimi": "64.219.570.655",
-    "degisim_orani": "0.92",
-    "fonlardaki_toplam_yatirimci_degisimi": "280099",
-    "ozet_yorum": "Toplam Yatırımcı Sayısı 63.051.429'dan 63.331.528'e , toplam yatırım miktarı 6,98 trilyon TL'den 7,04 trilyon TL'ye yükselmiş (64,22 milyar TL artış, %0,92) Bu beş günlük dönemde yatırımcıların güvenli limanlara yöneldiği (altın, para piyasası) ve aynı zamanda daha yüksek getiri potansiyeli olan araçlara da (serbest fonlar, girişim sermayesi fonları) ilgi gösterdiği anlaşılıyor."
+    "toplam_para_degisimi": "60.458.522.297",
+    "degisim_orani": "0.85",
+    "fonlardaki_toplam_yatirimci_degisimi": "-346835",
+    "ozet_yorum": "Toplam yatırımcı sayısı 63,33 → 62,98 milyon (- 0,55 %), toplam portföy büyüklüğü ise 7,04 → 7,10 trilyon ₺ (+ 0,82 %). Para az kişide, ama miktar büyüyor. üç gün arasında toplam yatırım miktarı yaklaşık ₺7.044 milyar'dan ₺7.101 milyar'a yükselerek yaklaşık ₺57 milyar'lık bir artış göstermiştir. Bu da genel olarak fon piyasasında olumlu bir eğilim olduğunu gösterir. "
   },
   "en_cok_para_girisi_olan_varlik_siniflari": [
     {
       "alan": "Mevduat (TL)",
-      "degisim": "+29.624.107.500,02",
-      "oran": "+0.321"
+      "degisim": "+39.560.926.198,57",
+      "oran": "+0.458"
     },
     {
       "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
-      "degisim": "+14.085.391.682,75",
-      "oran": "+0.139"
+      "degisim": "+12.722.722.667,68",
+      "oran": "+0.119"
     },
     {
       "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Borçlanma Araçları",
-      "degisim": "+12.165.840.498,63",
-      "oran": "+0.165"
+      "degisim": "+12.159.525.903,00",
+      "oran": "+0.162"
     },
     {
-      "alan": "Özel Sektör Dış Borçlanma Araçları",
-      "degisim": "+6.284.639.512,16",
-      "oran": "-0.011"
+      "alan": "Takasbank Para Piyasası",
+      "degisim": "+4.665.387.834,25",
+      "oran": "-0.055"
     },
     {
-      "alan": "Mevduat (Döviz)",
-      "degisim": "+5.714.326.827,77",
-      "oran": "+0.053"
+      "alan": "Yatırım Fonları Katılma Payları",
+      "degisim": "+4.532.244.294,46",
+      "oran": "+0.033"
     }
   ],
   "en_cok_para_cikisi_olan_varlik_siniflari": [
     {
-      "alan": "Ters-Repo",
-      "degisim": "-27.922.385.107,36",
-      "oran": "-0.534"
+      "alan": "Kıymetli Madenler",
+      "degisim": "-14.831.505.158,98",
+      "oran": "-0.230"
     },
     {
       "alan": "Katılma Hesabı (TL)",
-      "degisim": "-8.848.903.789,26",
-      "oran": "-0.154"
+      "degisim": "-5.573.672.652,58",
+      "oran": "-0.105"
     },
     {
-      "alan": "Devlet Tahvili",
-      "degisim": "-6.721.265.714,17",
-      "oran": "-0.138"
+      "alan": "Ters-Repo",
+      "degisim": "-3.226.828.670,61",
+      "oran": "-0.175"
     },
     {
-      "alan": "Vadeli İşlemler Nakit Teminatları",
-      "degisim": "-168.144.060,02",
-      "oran": "-0.006"
+      "alan": "Yabancı Hisse Senedi",
+      "degisim": "-1.795.882.732,88",
+      "oran": "-0.036"
     },
     {
-      "alan": "Varlığa Dayalı Menkul Kıymetler",
-      "degisim": "-27.505.704,49",
-      "oran": "-0.001"
+      "alan": "Kamu Dış Borçlanma Araçları",
+      "degisim": "-1.576.768.237,62",
+      "oran": "-0.053"
     }
   ],
   "encok_para_girisi_olan_fonlar": [
     {
-      "isim": "Serbest Fon",
-      "degisim_tl": "+24.905.754.651,00"
+      "isim": "Para Piyasası Fonu",
+      "degisim_tl": "+30.450.345.688,00"
     },
     {
-      "isim": "Para Piyasası Fonu",
-      "degisim_tl": "+10.576.849.077,00"
+      "isim": "Serbest Fon",
+      "degisim_tl": "+11.033.348.094,00"
     },
     {
       "isim": "Altın Fonu",
-      "degisim_tl": "+7.426.986.409,00"
+      "degisim_tl": "+8.440.970.077,00"
     },
     {
       "isim": "Altın Katılım Fonu",
-      "degisim_tl": "+7.227.194.274,00"
+      "degisim_tl": "+7.059.868.264,00"
     },
     {
       "isim": "Katılım Fonu",
-      "degisim_tl": "+3.128.564.198,00"
+      "degisim_tl": "+3.179.830.306,00"
     }
   ],
   "encok_para_cikisi_olan_fonlar": [
     {
+      "isim": "Değişken Fon",
+      "degisim_tl": "-700.265.571,00"
+    },
+    {
+      "isim": "Hisse Senedi Fonu",
+      "degisim_tl": "-2.951.082.947,00"
+    },
+    {
       "isim": "Kisa Vadeli Kira Sertifikalari Katilim Fonu",
-      "degisim_tl": "-401.531.749,00"
+      "degisim_tl": "-375.086.471,00"
     },
     {
-      "isim": "Başlangıç Katılım Fonu",
-      "degisim_tl": "-71.680.212,00"
+      "isim": "Fon Sepeti Fonu",
+      "degisim_tl": "-256.229.605,00"
     },
     {
-      "isim": "Katılım Standart Fon",
-      "degisim_tl": "-32.533.449,00"
-    },
-    {
-      "isim": "Katılım Katkı Fonu",
-      "degisim_tl": "-23.187.777,00"
-    },
-    {
-      "isim": "Kıymetli Madenler",
-      "degisim_tl": "+28.640,00"
+      "isim": "Endeks Fon",
+      "degisim_tl": "-177.703.718,00"
     }
   ],
   "detayli_AI_yorumlari": [
-    "Para Piyasası Fonları yatırımcı sayısında en büyük artışı göstermiş. Bu, yatırımcıların kısa vadeli ve nispeten güvenli yatırım araçlarına yöneldiğini gösteriyor.",
-    "Altın Katılım Fonu ve Altın Fonu hem yatırımcı sayısı hem de yatırım miktarı açısından güçlü performans gösteriyor. Bu durum, bu kısa dönemde altına olan güvenin ve talebinin arttığını gösteriyor. Her iki tarihte de en büyük paya sahip kalemlerden biri olan hisse senetlerinde önemli bir artış yaşanmıştır. 16 Mayıs'ta ₺783.341.071.472,71 olan hisse senedi tutarı, 21 Mayıs'ta ₺785.810.027.477,47'ye yükselmiştir. Oranı da %11.18'den %11.11'e hafifçe düşse de mutlak değerdeki artış yatırımcıların hisse senedine olan ilgisinin de sona ermediğini gösteriyor.",
-    "Serbest Fonlar Büyük Sermayeye Hitap Ediyor: Serbest fonlar, yatırımcı sayısı bakımından orta sıralarda olmasına rağmen (793 bin kişi), en yüksek yatırım miktarına sahip. Bu, kurumsal yatırımcıların ve yüksek varlıklı bireylerin bu fonları tercih ettiğini gösteriyor.",
-    "Katılım esaslı fonların (Altın Katılım, Katılım Değişken vb.) güçlü performansı, faizsiz yatırım araçlarına olan ilginin sürdüğünü gösteriyor. Gayrimenkul Yatırım Fonları ve Girişim Sermayesi Yatırım Fonları gibi alternatif yatırım araçlarına olan ilgi de devam ediyor."
+    "Altın katılım fonlarına hem sermaye hem de yatırımcı girişi, enflasyon korunma arayışını gösteriyor. Para piyasası fonlarına büyük sermaye girişi, piyasadaki belirsizliğin henüz sona ermediğinin işareti.  Altın katılım fonlarına olan yoğun ilgi, enflasyon beklentilerinin ve döviz kuru endişelerinin bir yansıması olabilir.",
+    "Toplam yatırımcı sayısı ise 63.331.528'den 62.984.693'e düşerek yaklaşık 346.835 kişilik bir azalma yaşamıştır. Bu durum, piyasaya yeni yatırımcı girişinden ziyade mevcut yatırımcıların fonlar arasında geçiş yaptığını veya bazı fonlardan çıkış yaptığını düşündürebilir. ",
+    "Para Piyasası Fonuna daha az yatırımcıyla daha fazla miktarda yatırım yapıldığı görülüyor. Bu durum, büyük kurumsal yatırımcıların veya yüksek miktarda paraya sahip bireysel yatırımcıların bu fona yöneldiğini veya mevcut yatırımcıların fonlarına yüklü miktarda ekleme yaptığını gösterebilir. Para piyasası fonları genellikle güvenli liman olarak görüldüğünden, bu artış piyasadaki belirsizlikten korunma isteğini de yansıtabilir.",
+    "Hisse Senedi Fonları'ndaki düşüş, yatırımcıların kısa vadede hisse senedi piyasalarına karşı daha temkinli olduğunu gösteriyor. Ancak Hisse Senedi Yoğun fondaki yatırım miktarındaki artış, bazı seçici yatırımların devam ettiğini de gösteriyor.  Genel olarak toplam yatırım miktarındaki artışa rağmen yatırımcı sayısındaki düşüş, piyasadaki fonların giderek daha fazla büyük meblağlı yatırımcılar tarafından domine edildiğini gösteriyor. Küçük yatırımcılar ya çekiliyor ya da yatırımlarını konsolide ediyor olabilir."
   ]
 }
