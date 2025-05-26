@@ -1,14 +1,14 @@
 {
-  "tarih": "2025-05-23",
+  "tarih": "2025-05-26",
   "veriler": [
     {
       "Hisse": "ASELS",
-      "Toplam Puan": 475,
+      "Toplam Puan": 474,
       "Sıra": 1
     },
     {
       "Hisse": "THYAO",
-      "Toplam Puan": 360,
+      "Toplam Puan": 371,
       "Sıra": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Hisse": "BIMAS",
-      "Toplam Puan": 321,
+      "Toplam Puan": 322,
       "Sıra": 4
     },
     {
@@ -38,37 +38,37 @@
     },
     {
       "Hisse": "AKBNK",
-      "Toplam Puan": 158,
+      "Toplam Puan": 151,
       "Sıra": 8
     },
     {
       "Hisse": "EREGL",
-      "Toplam Puan": 136,
+      "Toplam Puan": 131,
       "Sıra": 9
-    },
-    {
-      "Hisse": "GARAN",
-      "Toplam Puan": 124,
-      "Sıra": 10
     },
     {
       "Hisse": "GLDTR.F",
       "Toplam Puan": 122,
+      "Sıra": 10
+    },
+    {
+      "Hisse": "GARAN",
+      "Toplam Puan": 118,
       "Sıra": 11
     },
     {
       "Hisse": "MGROS",
-      "Toplam Puan": 113,
+      "Toplam Puan": 115,
       "Sıra": 12
-    },
-    {
-      "Hisse": "YKBNK",
-      "Toplam Puan": 108,
-      "Sıra": 13
     },
     {
       "Hisse": "GUBRF",
       "Toplam Puan": 106,
+      "Sıra": 13
+    },
+    {
+      "Hisse": "YKBNK",
+      "Toplam Puan": 105,
       "Sıra": 14
     },
     {
@@ -82,18 +82,18 @@
       "Sıra": 16
     },
     {
-      "Hisse": "ISCTR",
-      "Toplam Puan": 88,
-      "Sıra": 17
-    },
-    {
       "Hisse": "ZPLIB.F",
       "Toplam Puan": 87,
-      "Sıra": 18
+      "Sıra": 17
     },
     {
       "Hisse": "MPARK",
       "Toplam Puan": 86,
+      "Sıra": 18
+    },
+    {
+      "Hisse": "ISCTR",
+      "Toplam Puan": 84,
       "Sıra": 19
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "Hisse": "AEFES",
-      "Toplam Puan": 75,
+      "Toplam Puan": 79,
       "Sıra": 21
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "Hisse": "TSKB",
-      "Toplam Puan": 26,
+      "Toplam Puan": 25,
       "Sıra": 64
     },
     {
@@ -497,7 +497,7 @@
       "Sıra": 99
     },
     {
-      "Hisse": "ESCAR",
+      "Hisse": "TNZTP",
       "Toplam Puan": 13,
       "Sıra": 100
     }
