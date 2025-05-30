@@ -1,198 +1,198 @@
 [
   {
-    "Tarih": "2025-05-29",
+    "Tarih": "2025-05-30",
     "veriler": [
       {
         "isim": "Oks Standart Fon",
-        "yatırımcı sayısı": 3679838,
-        "yatırım miktarı": 23874429940
+        "yatırımcı sayısı": 3679145,
+        "yatırım miktarı": 23865500053
       },
       {
         "isim": "Değişken Fon",
-        "yatırımcı sayısı": 6190375,
-        "yatırım miktarı": 222680617780
+        "yatırımcı sayısı": 6186817,
+        "yatırım miktarı": 222371422590
       },
       {
         "isim": "Para Piyasası Fonu",
-        "yatırımcı sayısı": 5508294,
-        "yatırım miktarı": 1164525448069
+        "yatırımcı sayısı": 5509252,
+        "yatırım miktarı": 1155653562570
       },
       {
         "isim": "Serbest Fon",
-        "yatırımcı sayısı": 794116,
-        "yatırım miktarı": 3354721074697
+        "yatırımcı sayısı": 793156,
+        "yatırım miktarı": 3375801301537
       },
       {
         "isim": "Hisse Senedi Fonu",
-        "yatırımcı sayısı": 4875611,
-        "yatırım miktarı": 259041590657
+        "yatırımcı sayısı": 4869168,
+        "yatırım miktarı": 258255747583
       },
       {
         "isim": "Gayrimenkul Yatırım Fonları",
         "yatırımcı sayısı": 3103,
-        "yatırım miktarı": 161616540171
+        "yatırım miktarı": 161666458794
       },
       {
         "isim": "Fon Sepeti Fonu",
-        "yatırımcı sayısı": 1313918,
-        "yatırım miktarı": 82224180182
+        "yatırımcı sayısı": 1312480,
+        "yatırım miktarı": 82128908960
       },
       {
         "isim": "Girişim Sermayesi Yatırım Fonları",
-        "yatırımcı sayısı": 13260,
-        "yatırım miktarı": 303018187189
+        "yatırımcı sayısı": 13264,
+        "yatırım miktarı": 304329614474
       },
       {
         "isim": "Başlangıç Katılım Fonu",
-        "yatırımcı sayısı": 1680872,
-        "yatırım miktarı": 6452210952
+        "yatırımcı sayısı": 1679970,
+        "yatırım miktarı": 6457468652
       },
       {
         "isim": "Borçlanma Araçları Fonu",
-        "yatırımcı sayısı": 2756517,
-        "yatırım miktarı": 160506027994
+        "yatırımcı sayısı": 2754825,
+        "yatırım miktarı": 161489340348
       },
       {
         "isim": "Altın Katılım Fonu",
-        "yatırımcı sayısı": 5274593,
-        "yatırım miktarı": 426301645214
+        "yatırımcı sayısı": 5275655,
+        "yatırım miktarı": 425235229361
       },
       {
         "isim": "Devlet Katkısı Fonu",
-        "yatırımcı sayısı": 10506130,
-        "yatırım miktarı": 144741772797
+        "yatırımcı sayısı": 10503638,
+        "yatırım miktarı": 144788073069
       },
       {
         "isim": "Katılım Katkı Fonu",
-        "yatırımcı sayısı": 4778055,
-        "yatırım miktarı": 20632669195
+        "yatırımcı sayısı": 4777501,
+        "yatırım miktarı": 20580342784
       },
       {
         "isim": "Yabancı Fon Sepeti Fonu",
-        "yatırımcı sayısı": 82781,
-        "yatırım miktarı": 4902657007
+        "yatırımcı sayısı": 82633,
+        "yatırım miktarı": 4909236227
       },
       {
         "isim": "Endeks Fon",
-        "yatırımcı sayısı": 311084,
-        "yatırım miktarı": 11660903005
+        "yatırımcı sayısı": 310465,
+        "yatırım miktarı": 11603663765
       },
       {
         "isim": "Altın Fonu",
-        "yatırımcı sayısı": 2185479,
-        "yatırım miktarı": 332214549491
+        "yatırımcı sayısı": 2184858,
+        "yatırım miktarı": 330861039275
       },
       {
         "isim": "Oks Katılım Standart Fon",
-        "yatırımcı sayısı": 4918567,
-        "yatırım miktarı": 37298273367
+        "yatırımcı sayısı": 4918140,
+        "yatırım miktarı": 37202876028
       },
       {
         "isim": "Katılım Standart Fon",
-        "yatırımcı sayısı": 588516,
-        "yatırım miktarı": 8896712304
+        "yatırımcı sayısı": 588415,
+        "yatırım miktarı": 8868787451
       },
       {
         "isim": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
-        "yatırımcı sayısı": 1512168,
-        "yatırım miktarı": 46670076442
+        "yatırımcı sayısı": 1511642,
+        "yatırım miktarı": 46510610227
       },
       {
         "isim": "Özel Sektör Borçlanma Araçları Fonu",
-        "yatırımcı sayısı": 388216,
-        "yatırım miktarı": 13740775974
+        "yatırımcı sayısı": 388081,
+        "yatırım miktarı": 13741156985
       },
       {
         "isim": "Başlangıç Fonu",
-        "yatırımcı sayısı": 1122777,
-        "yatırım miktarı": 5116330213
+        "yatırımcı sayısı": 1121814,
+        "yatırım miktarı": 5121807836
       },
       {
         "isim": "Katılım Değişken Fon",
-        "yatırımcı sayısı": 49786,
-        "yatırım miktarı": 982640695
+        "yatırımcı sayısı": 49774,
+        "yatırım miktarı": 982163852
       },
       {
         "isim": "Katılım Fonu",
-        "yatırımcı sayısı": 1095290,
-        "yatırım miktarı": 179103969316
+        "yatırımcı sayısı": 1094881,
+        "yatırım miktarı": 178894672600
       },
       {
         "isim": "Karma Fon",
-        "yatırımcı sayısı": 724056,
-        "yatırım miktarı": 22530017354
+        "yatırımcı sayısı": 723757,
+        "yatırım miktarı": 22544595668
       },
       {
         "isim": "Standart Fon",
-        "yatırımcı sayısı": 1204437,
-        "yatırım miktarı": 17255917141
+        "yatırımcı sayısı": 1204139,
+        "yatırım miktarı": 17273874724
       },
       {
         "isim": "Dış Borçlanma Araçları Fonu",
-        "yatırımcı sayısı": 694246,
-        "yatırım miktarı": 32877395759
+        "yatırımcı sayısı": 694045,
+        "yatırım miktarı": 32786375519
       },
       {
         "isim": "Hisse Senedi Yoğun",
-        "yatırımcı sayısı": 82459,
-        "yatırım miktarı": 71706072515
+        "yatırımcı sayısı": 81950,
+        "yatırım miktarı": 72049422974
       },
       {
         "isim": "Kira Sertifikası Fonu",
-        "yatırımcı sayısı": 29588,
-        "yatırım miktarı": 406092237
+        "yatırımcı sayısı": 29623,
+        "yatırım miktarı": 398098134
       },
       {
         "isim": "Gümüş Fonu",
         "yatırımcı sayısı": 0,
-        "yatırım miktarı": 13495488371
+        "yatırım miktarı": 13579027823
       },
       {
         "isim": "Yabancı Fon",
         "yatırımcı sayısı": 0,
-        "yatırım miktarı": 768262054
+        "yatırım miktarı": 732071302
       },
       {
         "isim": "Kira Sertifikasi Katılım Fonu",
-        "yatırımcı sayısı": 10563,
-        "yatırım miktarı": 858235573
+        "yatırımcı sayısı": 10575,
+        "yatırım miktarı": 862332257
       },
       {
         "isim": "Kıymetli Madenler",
         "yatırımcı sayısı": 0,
-        "yatırım miktarı": 2048457
+        "yatırım miktarı": 2057377
       },
       {
         "isim": "Kisa Vadeli Kira Sertifikalari Katilim Fonu",
-        "yatırımcı sayısı": 86714,
-        "yatırım miktarı": 38961356800
+        "yatırımcı sayısı": 86586,
+        "yatırım miktarı": 38700506251
       },
       {
         "isim": "Merkezi Alacağın Devri Fonu",
-        "yatırımcı sayısı": 804,
-        "yatırım miktarı": 220941990
+        "yatırımcı sayısı": 803,
+        "yatırım miktarı": 219939154
       },
       {
         "isim": "Altın Ve Diğer Kıymetli Madenler Fonu",
-        "yatırımcı sayısı": 30625,
-        "yatırım miktarı": 3727256823
+        "yatırımcı sayısı": 30508,
+        "yatırım miktarı": 3584744235
       },
       {
         "isim": "Yaşam Döngüsü/Hedef Fon",
         "yatırımcı sayısı": 19956,
-        "yatırım miktarı": 446998069
+        "yatırım miktarı": 446043006
       },
       {
         "isim": "Kamu Borçlanma Araçları Fonu",
         "yatırımcı sayısı": 368826,
-        "yatırım miktarı": 2995142736
+        "yatırım miktarı": 2990785252
       },
       {
         "isim": "Yabancı Hisse Senedi Fonu",
-        "yatırımcı sayısı": 1992,
-        "yatırım miktarı": 38464691
+        "yatırımcı sayısı": 1980,
+        "yatırım miktarı": 38114077
       }
     ],
-    "toplam_para": 7177212973221
+    "toplam_para": 7187526972774
   }
 ]
