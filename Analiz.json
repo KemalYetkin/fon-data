@@ -1,113 +1,113 @@
 {
-  "tarih_araligi": "21.05.2025 - 25.05.2025",
+  "tarih_araligi": "26.05.2025 - 01.06.2025",
   "ozet": {
-    "toplam_para_degisimi": "60.458.522.297",
-    "degisim_orani": "0.85",
-    "fonlardaki_toplam_yatirimci_degisimi": "-346835",
-    "ozet_yorum": "Toplam yatırımcı sayısı 63,33 → 62,98 milyon (- 0,55 %), toplam portföy büyüklüğü ise 7,04 → 7,10 trilyon ₺ (+ 0,82 %). Para az kişide, ama miktar büyüyor. üç gün arasında toplam yatırım miktarı yaklaşık ₺7.044 milyar'dan ₺7.101 milyar'a yükselerek yaklaşık ₺57 milyar'lık bir artış göstermiştir. Bu da genel olarak fon piyasasında olumlu bir eğilim olduğunu gösterir. "
+    "toplam_para_degisimi": "51.399.401.034",
+    "degisim_orani": "0.72",
+    "fonlardaki_toplam_yatirimci_degisimi": "-77658",
+    "ozet_yorum": "Toplam fon büyüklüğü artmaya devam ediyor. Toplam yatırımcı sayısı  62.939.083'ten 62.861.425'e düştü (-77.658 kişi, -%0.12), toplam portföy büyüklüğü ise 7.136 trilyon TL'den 7.187 trilyon TL'ye yükseldi (+51.4 milyar TL, +%0.72). Bu durum  yatırımcıların sisteme daha fazla para aktardığını göstermektedir. Yatırımcı sayısındaki hafif düşüş piyasadan çıkan bazı küçük yatırımcıların veya fonlarını birleştirenlerin olduğunu, ancak mevcut yatırımcıların fonlarını artırdığını veya büyük yatırımcıların sisteme girdiğini düşündürmektedir."
   },
   "en_cok_para_girisi_olan_varlik_siniflari": [
     {
       "alan": "Mevduat (TL)",
-      "degisim": "+39.560.926.198,57",
-      "oran": "+0.458"
+      "degisim": "+36.499.566.038,81",
+      "oran": "+0.437"
     },
     {
-      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
-      "degisim": "+12.722.722.667,68",
-      "oran": "+0.119"
+      "alan": "Katılma Hesabı (TL)",
+      "degisim": "+14.577.153.742,33",
+      "oran": "+0.184"
     },
     {
-      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Borçlanma Araçları",
-      "degisim": "+12.159.525.903,00",
-      "oran": "+0.162"
+      "alan": "Özel Sektör Dış Borçlanma Araçları",
+      "degisim": "+11.376.626.576,44",
+      "oran": "+0.086"
+    },
+    {
+      "alan": "Mevduat (Döviz)",
+      "degisim": "+10.386.656.929,32",
+      "oran": "+0.124"
     },
     {
       "alan": "Takasbank Para Piyasası",
-      "degisim": "+4.665.387.834,25",
-      "oran": "-0.055"
-    },
-    {
-      "alan": "Yatırım Fonları Katılma Payları",
-      "degisim": "+4.532.244.294,46",
-      "oran": "+0.033"
+      "degisim": "+7.291.909.828,90",
+      "oran": "+0.094"
     }
   ],
   "en_cok_para_cikisi_olan_varlik_siniflari": [
     {
-      "alan": "Kıymetli Madenler",
-      "degisim": "-14.831.505.158,98",
-      "oran": "-0.230"
-    },
-    {
-      "alan": "Katılma Hesabı (TL)",
-      "degisim": "-5.573.672.652,58",
-      "oran": "-0.105"
-    },
-    {
       "alan": "Ters-Repo",
-      "degisim": "-3.226.828.670,61",
-      "oran": "-0.175"
+      "degisim": "-16.304.193.637,16",
+      "oran": "-0.329"
     },
     {
-      "alan": "Yabancı Hisse Senedi",
-      "degisim": "-1.795.882.732,88",
-      "oran": "-0.036"
+      "alan": "Hisse Senedi",
+      "degisim": "-7.504.907.716,21",
+      "oran": "-0.172"
     },
     {
-      "alan": "Kamu Dış Borçlanma Araçları",
-      "degisim": "-1.576.768.237,62",
-      "oran": "-0.053"
+      "alan": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
+      "degisim": "-4.817.579.353,50",
+      "oran": "-0.110"
+    },
+    {
+      "alan": "Katılma Hesabı (Döviz)",
+      "degisim": "-2.666.643.719,26",
+      "oran": "-0.052"
+    },
+    {
+      "alan": "Yabancı Kamu Borçlanma Araçları",
+      "degisim": "-2.613.832.511,15",
+      "oran": "-0.040"
     }
   ],
   "encok_para_girisi_olan_fonlar": [
     {
       "isim": "Para Piyasası Fonu",
-      "degisim_tl": "+30.450.345.688,00"
+      "degisim_tl": "+51.864.395.031,00"
     },
     {
       "isim": "Serbest Fon",
-      "degisim_tl": "+11.033.348.094,00"
+      "degisim_tl": "+12.239.681.262,00"
     },
     {
-      "isim": "Altın Fonu",
-      "degisim_tl": "+8.440.970.077,00"
+      "isim": "Borçlanma Araçları Fonu",
+      "degisim_tl": "+2.808.139.677,00"
     },
     {
-      "isim": "Altın Katılım Fonu",
-      "degisim_tl": "+7.059.868.264,00"
+      "isim": "Girişim Sermayesi Yatırım Fonları",
+      "degisim_tl": "+2.295.921.545,00"
     },
     {
-      "isim": "Katılım Fonu",
-      "degisim_tl": "+3.179.830.306,00"
+      "isim": "Karma Fon",
+      "degisim_tl": "+200.081.180,00"
     }
   ],
   "encok_para_cikisi_olan_fonlar": [
     {
       "isim": "Değişken Fon",
-      "degisim_tl": "-700.265.571,00"
+      "degisim_tl": "-1.963.787.490,00"
     },
     {
       "isim": "Hisse Senedi Fonu",
-      "degisim_tl": "-2.951.082.947,00"
+      "degisim_tl": "-5.710.666.269,00"
     },
     {
-      "isim": "Kisa Vadeli Kira Sertifikalari Katilim Fonu",
-      "degisim_tl": "-375.086.471,00"
+      "isim": "Altın Katılım Fonu",
+      "degisim_tl": "-3.447.487.688,00"
     },
     {
-      "isim": "Fon Sepeti Fonu",
-      "degisim_tl": "-256.229.605,00"
+      "isim": "Altın Fonu",
+      "degisim_tl": "-3.196.352.008,00"
     },
     {
-      "isim": "Endeks Fon",
-      "degisim_tl": "-177.703.718,00"
+      "isim": "Devlet Katkısı Fonu",
+      "degisim_tl": "-868.711.349,00"
     }
   ],
   "detayli_AI_yorumlari": [
-    "Altın katılım fonlarına hem sermaye hem de yatırımcı girişi, enflasyon korunma arayışını gösteriyor. Para piyasası fonlarına büyük sermaye girişi, piyasadaki belirsizliğin henüz sona ermediğinin işareti.  Altın katılım fonlarına olan yoğun ilgi, enflasyon beklentilerinin ve döviz kuru endişelerinin bir yansıması olabilir.",
-    "Toplam yatırımcı sayısı ise 63.331.528'den 62.984.693'e düşerek yaklaşık 346.835 kişilik bir azalma yaşamıştır. Bu durum, piyasaya yeni yatırımcı girişinden ziyade mevcut yatırımcıların fonlar arasında geçiş yaptığını veya bazı fonlardan çıkış yaptığını düşündürebilir. ",
-    "Para Piyasası Fonuna daha az yatırımcıyla daha fazla miktarda yatırım yapıldığı görülüyor. Bu durum, büyük kurumsal yatırımcıların veya yüksek miktarda paraya sahip bireysel yatırımcıların bu fona yöneldiğini veya mevcut yatırımcıların fonlarına yüklü miktarda ekleme yaptığını gösterebilir. Para piyasası fonları genellikle güvenli liman olarak görüldüğünden, bu artış piyasadaki belirsizlikten korunma isteğini de yansıtabilir.",
-    "Hisse Senedi Fonları'ndaki düşüş, yatırımcıların kısa vadede hisse senedi piyasalarına karşı daha temkinli olduğunu gösteriyor. Ancak Hisse Senedi Yoğun fondaki yatırım miktarındaki artış, bazı seçici yatırımların devam ettiğini de gösteriyor.  Genel olarak toplam yatırım miktarındaki artışa rağmen yatırımcı sayısındaki düşüş, piyasadaki fonların giderek daha fazla büyük meblağlı yatırımcılar tarafından domine edildiğini gösteriyor. Küçük yatırımcılar ya çekiliyor ya da yatırımlarını konsolide ediyor olabilir."
+    "Para Piyasası Fonları, riskten kaçınan veya kısa vadeli nakit fazlasını değerlendirmek isteyen yatırımcılar için cazibesini korumaya devam etmektedir. Yatırımcı sayısındaki ve miktardaki artış, piyasadaki belirsizlikler nedeniyle güvenli liman arayışını veya faiz getirilerindeki artışı işaret edebilir",
+    "Hisse senedi fonlarında hem yatırımcı sayısında hem de miktarda düşüş gözlemlenmiştir. Bu, kısa vadede borsada yaşanan dalgalanmalar veya kar realizasyonları nedeniyle yatırımcıların bir kısmının bu fonlardan çıkış yaptığını veya daha temkinli davrandığını gösterebilir.Girişim Sermayesi Yatırım Fonlarındaki artış, yatırımcıların geleneksel fonların yanı sıra alternatif ve yüksek büyüme potansiyeli olan alanlara da ilgi duyduğunu göstermektedir.",
+    "Altın fonları genel olarak hem yatırımcı sayısı hem de miktarı açısından hafif düşüşler yaşamıştır. Bu durum, altın fiyatlarındaki dalgalanmalar veya diğer yatırım araçlarının daha cazip hale gelmesiyle açıklanabilir.Yatırımcılar borsadan ve altından kısmen çıkıp para piyasası ile serbest fonlara sığınıyor. Volatilite korkusu + yükselen kısa vadeli faizler? ",
+    "Büyük balıklar sahnede: Toplam yatırımcı düşerken hacim artışında, yüksek portföylü oyuncuların payı belirgin. Küçük yatırımcı kenara çekilmiş görünüyor. Riskten kaçış, ama herkes değil: Girişim sermayesi fonlarına hâlâ para girmesi, uzun vadeli risk iştahının bitmediğini gösteriyor—sadece toplu değil, seçici bir hareket. Yatırımcılar kâr aldıktan sonra bekle-gör moduna geçmiş gibi."
   ]
 }
