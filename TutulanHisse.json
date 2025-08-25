@@ -1,5 +1,5 @@
 {
-  "tarih": "2025-08-22",
+  "tarih": "2025-08-25",
   "veriler": [
     {
       "Hisse": "ASELS",
@@ -8,7 +8,7 @@
     },
     {
       "Hisse": "BIMAS",
-      "Toplam Puan": 240,
+      "Toplam Puan": 241,
       "Sıra": 2
     },
     {
@@ -42,12 +42,12 @@
       "Sıra": 8
     },
     {
-      "Hisse": "TUPRS",
+      "Hisse": "ISCTR",
       "Toplam Puan": 132,
       "Sıra": 9
     },
     {
-      "Hisse": "ISCTR",
+      "Hisse": "TUPRS",
       "Toplam Puan": 132,
       "Sıra": 10
     },
@@ -57,12 +57,12 @@
       "Sıra": 11
     },
     {
-      "Hisse": "GARAN",
-      "Toplam Puan": 114,
+      "Hisse": "EREGL",
+      "Toplam Puan": 118,
       "Sıra": 12
     },
     {
-      "Hisse": "EREGL",
+      "Hisse": "GARAN",
       "Toplam Puan": 114,
       "Sıra": 13
     },
@@ -77,13 +77,13 @@
       "Sıra": 15
     },
     {
-      "Hisse": "ZGOLD.F",
-      "Toplam Puan": 97,
+      "Hisse": "MGROS",
+      "Toplam Puan": 98,
       "Sıra": 16
     },
     {
-      "Hisse": "MGROS",
-      "Toplam Puan": 95,
+      "Hisse": "ZGOLD.F",
+      "Toplam Puan": 97,
       "Sıra": 17
     },
     {
@@ -97,12 +97,12 @@
       "Sıra": 19
     },
     {
-      "Hisse": "MPARK",
+      "Hisse": "OTKAR",
       "Toplam Puan": 84,
       "Sıra": 20
     },
     {
-      "Hisse": "OTKAR",
+      "Hisse": "MPARK",
       "Toplam Puan": 84,
       "Sıra": 21
     },
@@ -113,7 +113,7 @@
     },
     {
       "Hisse": "MAVI",
-      "Toplam Puan": 70,
+      "Toplam Puan": 75,
       "Sıra": 23
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "Hisse": "AEFES",
-      "Toplam Puan": 48,
+      "Toplam Puan": 51,
       "Sıra": 28
     },
     {
@@ -157,13 +157,13 @@
       "Sıra": 31
     },
     {
-      "Hisse": "TTKOM",
-      "Toplam Puan": 43,
+      "Hisse": "ULKER",
+      "Toplam Puan": 44,
       "Sıra": 32
     },
     {
-      "Hisse": "ULKER",
-      "Toplam Puan": 42,
+      "Hisse": "TTKOM",
+      "Toplam Puan": 43,
       "Sıra": 33
     },
     {
@@ -177,12 +177,12 @@
       "Sıra": 35
     },
     {
-      "Hisse": "INDES",
+      "Hisse": "CIMSA",
       "Toplam Puan": 40,
       "Sıra": 36
     },
     {
-      "Hisse": "CIMSA",
+      "Hisse": "INDES",
       "Toplam Puan": 40,
       "Sıra": 37
     },
@@ -192,12 +192,12 @@
       "Sıra": 38
     },
     {
-      "Hisse": "BIOEN",
+      "Hisse": "ENKAI",
       "Toplam Puan": 37,
       "Sıra": 39
     },
     {
-      "Hisse": "ENKAI",
+      "Hisse": "BIOEN",
       "Toplam Puan": 37,
       "Sıra": 40
     },
@@ -217,23 +217,23 @@
       "Sıra": 43
     },
     {
+      "Hisse": "CCOLA",
+      "Toplam Puan": 34,
+      "Sıra": 44
+    },
+    {
       "Hisse": "TRGYO",
       "Toplam Puan": 33,
-      "Sıra": 44
+      "Sıra": 45
     },
     {
       "Hisse": "ALTNY",
       "Toplam Puan": 32,
-      "Sıra": 45
+      "Sıra": 46
     },
     {
       "Hisse": "KRDMD",
       "Toplam Puan": 32,
-      "Sıra": 46
-    },
-    {
-      "Hisse": "GWIND",
-      "Toplam Puan": 31,
       "Sıra": 47
     },
     {
@@ -242,13 +242,13 @@
       "Sıra": 48
     },
     {
-      "Hisse": "KTLEV",
-      "Toplam Puan": 30,
+      "Hisse": "GWIND",
+      "Toplam Puan": 31,
       "Sıra": 49
     },
     {
-      "Hisse": "ASTOR",
-      "Toplam Puan": 29,
+      "Hisse": "KTLEV",
+      "Toplam Puan": 30,
       "Sıra": 50
     },
     {
@@ -257,13 +257,13 @@
       "Sıra": 51
     },
     {
-      "Hisse": "CCOLA",
+      "Hisse": "SUWEN",
       "Toplam Puan": 29,
       "Sıra": 52
     },
     {
-      "Hisse": "ARDYZ",
-      "Toplam Puan": 27,
+      "Hisse": "ASTOR",
+      "Toplam Puan": 29,
       "Sıra": 53
     },
     {
@@ -272,17 +272,17 @@
       "Sıra": 54
     },
     {
-      "Hisse": "SUWEN",
-      "Toplam Puan": 26,
+      "Hisse": "ARDYZ",
+      "Toplam Puan": 27,
       "Sıra": 55
     },
     {
-      "Hisse": "HALKB",
+      "Hisse": "EFORC",
       "Toplam Puan": 25,
       "Sıra": 56
     },
     {
-      "Hisse": "EFORC",
+      "Hisse": "HALKB",
       "Toplam Puan": 25,
       "Sıra": 57
     },
@@ -297,72 +297,72 @@
       "Sıra": 59
     },
     {
-      "Hisse": "ARCLK",
+      "Hisse": "ANSGR",
       "Toplam Puan": 23,
       "Sıra": 60
     },
     {
-      "Hisse": "ANSGR",
+      "Hisse": "ARCLK",
       "Toplam Puan": 23,
       "Sıra": 61
     },
     {
-      "Hisse": "ARMGD",
+      "Hisse": "TEHOL",
       "Toplam Puan": 22,
       "Sıra": 62
     },
     {
-      "Hisse": "TEHOL",
+      "Hisse": "ARMGD",
       "Toplam Puan": 22,
       "Sıra": 63
     },
     {
-      "Hisse": "ECILC",
+      "Hisse": "DMRGD",
       "Toplam Puan": 21,
       "Sıra": 64
     },
     {
-      "Hisse": "AKSEN",
+      "Hisse": "QUAGR",
       "Toplam Puan": 21,
       "Sıra": 65
     },
     {
-      "Hisse": "QUAGR",
+      "Hisse": "ISMEN",
       "Toplam Puan": 21,
       "Sıra": 66
     },
     {
-      "Hisse": "DMRGD",
+      "Hisse": "ECILC",
       "Toplam Puan": 21,
       "Sıra": 67
     },
     {
-      "Hisse": "ISMEN",
-      "Toplam Puan": 20,
+      "Hisse": "AKSEN",
+      "Toplam Puan": 21,
       "Sıra": 68
-    },
-    {
-      "Hisse": "GENIL",
-      "Toplam Puan": 20,
-      "Sıra": 69
     },
     {
       "Hisse": "ALARK",
       "Toplam Puan": 20,
-      "Sıra": 70
+      "Sıra": 69
     },
     {
       "Hisse": "AGESA",
       "Toplam Puan": 20,
+      "Sıra": 70
+    },
+    {
+      "Hisse": "GENIL",
+      "Toplam Puan": 20,
       "Sıra": 71
     },
     {
-      "Hisse": "LMKDC",
+      "Hisse": "GLRMK",
       "Toplam Puan": 19,
       "Sıra": 72
     },
     {
-      "Hisse": "GLRMK",
+      "Hisse": "SNGYO",
       "Toplam Puan": 19,
       "Sıra": 73
     },
@@ -372,17 +372,17 @@
       "Sıra": 74
     },
     {
-      "Hisse": "SNGYO",
+      "Hisse": "LMKDC",
       "Toplam Puan": 19,
       "Sıra": 75
     },
     {
-      "Hisse": "OZKGY",
+      "Hisse": "KCAER",
       "Toplam Puan": 19,
       "Sıra": 76
     },
     {
-      "Hisse": "KCAER",
+      "Hisse": "OZKGY",
       "Toplam Puan": 19,
       "Sıra": 77
     },
@@ -402,62 +402,62 @@
       "Sıra": 80
     },
     {
-      "Hisse": "PENTA",
+      "Hisse": "ENERY",
       "Toplam Puan": 16,
       "Sıra": 81
     },
     {
-      "Hisse": "VAKBN",
+      "Hisse": "PETKM",
       "Toplam Puan": 16,
       "Sıra": 82
     },
     {
-      "Hisse": "ENERY",
+      "Hisse": "TSKB",
       "Toplam Puan": 16,
       "Sıra": 83
     },
     {
-      "Hisse": "TSKB",
+      "Hisse": "VAKBN",
       "Toplam Puan": 16,
       "Sıra": 84
     },
     {
-      "Hisse": "DOHOL",
-      "Toplam Puan": 15,
+      "Hisse": "PENTA",
+      "Toplam Puan": 16,
       "Sıra": 85
-    },
-    {
-      "Hisse": "HATSN",
-      "Toplam Puan": 15,
-      "Sıra": 86
-    },
-    {
-      "Hisse": "KOZAL",
-      "Toplam Puan": 15,
-      "Sıra": 87
-    },
-    {
-      "Hisse": "GRTHO",
-      "Toplam Puan": 15,
-      "Sıra": 88
-    },
-    {
-      "Hisse": "DCTTR",
-      "Toplam Puan": 15,
-      "Sıra": 89
     },
     {
       "Hisse": "MEDTR",
       "Toplam Puan": 15,
+      "Sıra": 86
+    },
+    {
+      "Hisse": "DOHOL",
+      "Toplam Puan": 15,
+      "Sıra": 87
+    },
+    {
+      "Hisse": "KOZAL",
+      "Toplam Puan": 15,
+      "Sıra": 88
+    },
+    {
+      "Hisse": "HATSN",
+      "Toplam Puan": 15,
+      "Sıra": 89
+    },
+    {
+      "Hisse": "GRTHO",
+      "Toplam Puan": 15,
       "Sıra": 90
     },
     {
-      "Hisse": "KRONT",
-      "Toplam Puan": 14,
+      "Hisse": "DCTTR",
+      "Toplam Puan": 15,
       "Sıra": 91
     },
     {
-      "Hisse": "PETKM",
+      "Hisse": "KRONT",
       "Toplam Puan": 14,
       "Sıra": 92
     },
@@ -472,32 +472,32 @@
       "Sıra": 94
     },
     {
-      "Hisse": "INFO",
+      "Hisse": "SMRVA",
       "Toplam Puan": 13,
       "Sıra": 95
     },
     {
-      "Hisse": "SMRVA",
+      "Hisse": "BALSU",
       "Toplam Puan": 13,
       "Sıra": 96
     },
     {
-      "Hisse": "REEDR",
+      "Hisse": "INFO",
       "Toplam Puan": 13,
       "Sıra": 97
     },
     {
-      "Hisse": "BALSU",
+      "Hisse": "REEDR",
       "Toplam Puan": 13,
       "Sıra": 98
     },
     {
-      "Hisse": "AYGAZ",
+      "Hisse": "GRSEL",
       "Toplam Puan": 12,
       "Sıra": 99
     },
     {
-      "Hisse": "GRSEL",
+      "Hisse": "VESBE",
       "Toplam Puan": 12,
       "Sıra": 100
     }
