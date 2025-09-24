@@ -1,198 +1,198 @@
 [
   {
-    "Tarih": "2025-09-23",
+    "Tarih": "2025-09-24",
     "veriler": [
       {
         "isim": "Finansman Bonosu",
-        "yatırım miktarı": 91664232789.84152,
-        "yatırımın bütüne oranı": 1.021726291381875
+        "yatırım miktarı": 91751062949.38489,
+        "yatırımın bütüne oranı": 1.021756809411423
       },
       {
         "isim": "Borsa Yatırım Fonları Katılma Payları",
-        "yatırım miktarı": 104818635736.2765,
-        "yatırımın bütüne oranı": 1.168350540870966
+        "yatırım miktarı": 103714332763.2537,
+        "yatırımın bütüne oranı": 1.154981995062839
       },
       {
         "isim": "Devlet Tahvili",
-        "yatırım miktarı": 482610990601.2791,
-        "yatırımın bütüne oranı": 5.379375603761384
+        "yatırım miktarı": 482719077600.5984,
+        "yatırımın bütüne oranı": 5.375648943089645
       },
       {
         "isim": "Diğer",
-        "yatırım miktarı": 147678236002.9819,
-        "yatırımın bütüne oranı": 1.646080829968673
+        "yatırım miktarı": 144012770267.786,
+        "yatırımın bütüne oranı": 1.603752849648046
       },
       {
         "isim": "Döviz Cinsi Kamu İç Borçlanma Araçları",
-        "yatırım miktarı": 52351431537.35081,
-        "yatırımın bütüne oranı": 0.5835300461830448
+        "yatırım miktarı": 52396520563.06018,
+        "yatırımın bütüne oranı": 0.5834973454673342
       },
       {
         "isim": "Gayrı Menkul Sertifikası",
-        "yatırım miktarı": 47614137260.39931,
-        "yatırımın bütüne oranı": 0.5307262647575087
+        "yatırım miktarı": 47601348121.79821,
+        "yatırımın bütüne oranı": 0.5300974181350018
       },
       {
         "isim": "Gayrimenkul Yatırım Fonları Katılma Payları",
-        "yatırım miktarı": 24578112856.72629,
-        "yatırımın bütüne oranı": 0.2739575004772322
+        "yatırım miktarı": 24601983842.43789,
+        "yatırımın bütüne oranı": 0.2739722430235805
       },
       {
         "isim": "Gayrimenkul Yatırımları",
-        "yatırım miktarı": 97818881394.2001,
-        "yatırımın bütüne oranı": 1.090328472427859
+        "yatırım miktarı": 97878779471.90129,
+        "yatırımın bütüne oranı": 1.0899961941309
       },
       {
         "isim": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
-        "yatırım miktarı": 44862945632.80961,
-        "yatırımın bütüne oranı": 0.5000603797881469
+        "yatırım miktarı": 45082706311.20222,
+        "yatırımın bütüne oranı": 0.5020493570257325
       },
       {
         "isim": "Girişim Sermayesi Yatırımları",
-        "yatırım miktarı": 222555574494.9118,
-        "yatırımın bütüne oranı": 2.480693666813179
+        "yatırım miktarı": 222824205384.9057,
+        "yatırımın bütüne oranı": 2.481411569905339
       },
       {
         "isim": "Hazine Bonosu",
-        "yatırım miktarı": 4099356414.3195,
-        "yatırımın bütüne oranı": 0.04569307022792576
+        "yatırım miktarı": 3763131067.816601,
+        "yatırımın bütüne oranı": 0.04190692368730828
       },
       {
         "isim": "Hisse Senedi",
-        "yatırım miktarı": 1036999774769.453,
-        "yatırımın bütüne oranı": 11.55881527387259
+        "yatırım miktarı": 1019533857767.278,
+        "yatırımın bütüne oranı": 11.35371763675242
       },
       {
         "isim": "Kamu Dış Borçlanma Araçları",
-        "yatırım miktarı": 291097337286.9323,
-        "yatırımın bütüne oranı": 3.244687636662107
+        "yatırım miktarı": 291226173043.9301,
+        "yatırımın bütüne oranı": 3.243148534972474
       },
       {
         "isim": "Kamu Kira Sertifikaları (Döviz)",
-        "yatırım miktarı": 46159312569.53371,
-        "yatırımın bütüne oranı": 0.5145102054422376
+        "yatırım miktarı": 46286091330.8472,
+        "yatırımın bütüne oranı": 0.5154504752105349
       },
       {
         "isim": "Kamu Kira Sertifikaları (TL)",
-        "yatırım miktarı": 72714356859.53671,
-        "yatırımın bütüne oranı": 0.8105033763239672
+        "yatırım miktarı": 72721789169.0253,
+        "yatırımın bütüne oranı": 0.8098432964969982
       },
       {
         "isim": "Kamu Yurt Dışı Kira Sertifikaları",
-        "yatırım miktarı": 25176943167.9134,
-        "yatırımın bütüne oranı": 0.2806323032262939
+        "yatırım miktarı": 25232370923.2421,
+        "yatırımın bütüne oranı": 0.2809923501664484
       },
       {
         "isim": "Katılma Hesabı (Altın)",
-        "yatırım miktarı": 1187095036.5948,
-        "yatırımın bütüne oranı": 0.01323183724276206
+        "yatırım miktarı": 1205631826.2589,
+        "yatırımın bütüne oranı": 0.01342613903887659
       },
       {
         "isim": "Katılma Hesabı (Döviz)",
-        "yatırım miktarı": 212531084527.9018,
-        "yatırımın bütüne oranı": 2.368956682329052
+        "yatırım miktarı": 212796231292.2089,
+        "yatırımın bütüne oranı": 2.369738195402129
       },
       {
         "isim": "Katılma Hesabı (TL)",
-        "yatırım miktarı": 350065119795.5587,
-        "yatırımın bütüne oranı": 3.901966183592016
+        "yatırım miktarı": 343268707483.2934,
+        "yatırımın bütüne oranı": 3.822703825484827
       },
       {
         "isim": "Kıymetli Madenler",
-        "yatırım miktarı": 238765329787.5167,
-        "yatırımın bütüne oranı": 2.661374098593942
+        "yatırım miktarı": 244371829526.8408,
+        "yatırımın bütüne oranı": 2.721369898298828
       },
       {
         "isim": "Kıymetli Madenler Cinsinden BYF",
-        "yatırım miktarı": 86489671393.35329,
-        "yatırımın bütüne oranı": 0.9640485553200548
+        "yatırım miktarı": 87706620049.90373,
+        "yatırımın bütüne oranı": 0.9767171451287294
       },
       {
         "isim": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Borçlanma Araçları",
-        "yatırım miktarı": 89611399891.06381,
-        "yatırımın bütüne oranı": 0.9988445928102673
+        "yatırım miktarı": 91189379424.5179,
+        "yatırımın bütüne oranı": 1.015501797776477
       },
       {
         "isim": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları",
-        "yatırım miktarı": 599242148736.1117,
-        "yatırımın bütüne oranı": 6.679393255508772
+        "yatırım miktarı": 609234497563.3813,
+        "yatırımın bütüne oranı": 6.784548063024974
       },
       {
         "isim": "Mevduat (Döviz)",
-        "yatırım miktarı": 316562918536.0599,
-        "yatırımın bütüne oranı": 3.52853721567084
+        "yatırım miktarı": 321986122332.3412,
+        "yatırımın bütüne oranı": 3.585697020322689
       },
       {
         "isim": "Mevduat (TL)",
-        "yatırım miktarı": 1032904489204.249,
-        "yatırımın bütüne oranı": 11.51316757896111
+        "yatırım miktarı": 1066465690506.062,
+        "yatırımın bütüne oranı": 11.87635920773307
       },
       {
         "isim": "Özel Sektör Dış Borçlanma Araçları",
-        "yatırım miktarı": 1088574736940.753,
-        "yatırımın bütüne oranı": 12.13369048117681
+        "yatırım miktarı": 1097747091369.632,
+        "yatırımın bütüne oranı": 12.22471467428404
       },
       {
         "isim": "Özel Sektör Kira Sertifikaları",
-        "yatırım miktarı": 82096014765.94728,
-        "yatırımın bütüne oranı": 0.9150750969176141
+        "yatırım miktarı": 86108679371.22285,
+        "yatırımın bütüne oranı": 0.9589221821387269
       },
       {
         "isim": "Özel Sektör Tahvili",
-        "yatırım miktarı": 110737286578.1156,
-        "yatırımın bütüne oranı": 1.23432219623278
+        "yatırım miktarı": 108701258839.5657,
+        "yatırımın bütüne oranı": 1.210517326346293
       },
       {
         "isim": "Özel Sektör Yurt Dışı Kira Sertifikaları",
-        "yatırım miktarı": 14198361771.9864,
-        "yatırımın bütüne oranı": 0.1582606331332055
+        "yatırım miktarı": 14233007059.2175,
+        "yatırımın bütüne oranı": 0.1585013994789237
       },
       {
         "isim": "Takasbank Para Piyasası",
-        "yatırım miktarı": 79687628534.49936,
-        "yatırımın bütüne oranı": 0.8882302583412185
+        "yatırım miktarı": 79625611077.0157,
+        "yatırımın bütüne oranı": 0.8867255343555867
       },
       {
         "isim": "Ters-Repo",
-        "yatırım miktarı": 1269080668946.311,
-        "yatırımın bütüne oranı": 14.14568197303062
+        "yatırım miktarı": 1236165399551.596,
+        "yatırımın bütüne oranı": 13.76616655926277
       },
       {
         "isim": "Vadeli İşlemler Nakit Teminatları",
-        "yatırım miktarı": 43262741871.0502,
-        "yatırımın bütüne oranı": 0.4822238670590624
+        "yatırım miktarı": 42761324582.89604,
+        "yatırımın bütüne oranı": 0.4761980206826477
       },
       {
         "isim": "Varlığa Dayalı Menkul Kıymetler",
-        "yatırım miktarı": 6156028873.848302,
-        "yatırımın bütüne oranı": 0.06861756608313441
+        "yatırım miktarı": 6162726418.147899,
+        "yatırımın bütüne oranı": 0.06862926139347246
       },
       {
         "isim": "Yabancı Borsa Yatırım Fonları",
-        "yatırım miktarı": 44872191777.3325,
-        "yatırımın bütüne oranı": 0.5001634410222339
+        "yatırım miktarı": 44908720152.40998,
+        "yatırımın bütüne oranı": 0.5001118149769022
       },
       {
         "isim": "Yabancı Hisse Senedi",
-        "yatırım miktarı": 114501812624.4465,
-        "yatırımın bütüne oranı": 1.276283112929116
+        "yatırım miktarı": 115757442208.7504,
+        "yatırımın bütüne oranı": 1.289096289621056
       },
       {
         "isim": "Yabancı Kamu Borçlanma Araçları",
-        "yatırım miktarı": 43438018506.3829,
-        "yatırımın bütüne oranı": 0.484177570713518
+        "yatırım miktarı": 40271350425.5509,
+        "yatırımın bütüne oranı": 0.4484692078630145
       },
       {
         "isim": "Yabancı Özel Sektör Borçlanma Araçları",
-        "yatırım miktarı": 33232785491.43958,
-        "yatırımın bütüne oranı": 0.3704259517483346
+        "yatırım miktarı": 34044063790.79741,
+        "yatırımın bütüne oranı": 0.3791209919548654
       },
       {
         "isim": "Yatırım Fonları Katılma Payları",
-        "yatırım miktarı": 321507938366.1053,
-        "yatırımın bütüne oranı": 3.583656389398567
+        "yatırım miktarı": 323678307129.089,
+        "yatırımın bütüne oranı": 3.604541503245066
       }
     ],
-    "toplam_para": 8971505731331.09
+    "toplam_para": 8979735892559.168
   }
 ]
